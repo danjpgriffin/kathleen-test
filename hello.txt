@@ -1,3 +1,4 @@
-Hi Kathleen
+Hello Kathleen
 This is the first file
 Yippie!
+Added a new line here
